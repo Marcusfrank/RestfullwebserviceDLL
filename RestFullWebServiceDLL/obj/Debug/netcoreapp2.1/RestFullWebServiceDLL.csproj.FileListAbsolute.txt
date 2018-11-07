@@ -13,3 +13,6 @@ C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\obj\Debu
 C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\obj\Debug\netcoreapp2.1\RestFullWebServiceDLL.dll
 C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\obj\Debug\netcoreapp2.1\RestFullWebServiceDLL.pdb
 C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\bin\Debug\netcoreapp2.1\RestFullWebServiceDLL.xml
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\obj\Debug\netcoreapp2.1\RestFullWebServiceDLL.csproj.CopyComplete
