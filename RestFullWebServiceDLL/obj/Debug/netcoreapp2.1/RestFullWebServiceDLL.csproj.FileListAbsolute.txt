@@ -1,0 +1,15 @@
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\bin\Debug\netcoreapp2.1\RestFullWebServiceDLL.deps.json
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\bin\Debug\netcoreapp2.1\RestFullWebServiceDLL.runtimeconfig.json
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\bin\Debug\netcoreapp2.1\RestFullWebServiceDLL.runtimeconfig.dev.json
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\bin\Debug\netcoreapp2.1\RestFullWebServiceDLL.dll
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\bin\Debug\netcoreapp2.1\RestFullWebServiceDLL.pdb
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\obj\Debug\netcoreapp2.1\RestFullWebServiceDLL.csprojAssemblyReference.cache
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\obj\Debug\netcoreapp2.1\RestFullWebServiceDLL.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\obj\Debug\netcoreapp2.1\RestFullWebServiceDLL.RazorAssemblyInfo.cache
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\obj\Debug\netcoreapp2.1\RestFullWebServiceDLL.RazorAssemblyInfo.cs
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\obj\Debug\netcoreapp2.1\RestFullWebServiceDLL.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\obj\Debug\netcoreapp2.1\RestFullWebServiceDLL.AssemblyInfo.cs
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\obj\Debug\netcoreapp2.1\RestFullWebServiceDLL.RazorTargetAssemblyInfo.cache
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\obj\Debug\netcoreapp2.1\RestFullWebServiceDLL.dll
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\obj\Debug\netcoreapp2.1\RestFullWebServiceDLL.pdb
+C:\Users\Frank\source\repos\RestFullWebServiceDLL\RestFullWebServiceDLL\bin\Debug\netcoreapp2.1\RestFullWebServiceDLL.xml
